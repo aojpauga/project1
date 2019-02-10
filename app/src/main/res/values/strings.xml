@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Math Quiz</string>
+    <string name="enter_button">Enter</string>
+    <string name="next_button">Next</string>
+    <string name="submit_button">Submit</string>
+
+    <string name="add_question">2+2</string>
+    <string name="subtract_question">5-3</string>
+    <string name="multiply_question">1*10</string>
+    <string name="divide_question">100/2</string>
+    <string name="add_question_2">4+8</string>
+    <string name="subtract_question_2">20-14</string>
+    <string name="multiply_question_2">4*9</string>
+    <string name="divide_question_2">30/3</string>
+    <string name="divide_question_3">1000/100</string>
+    <string name="divide_question_4">80/4</string>
+
+    <string name="keep_going_toast">Keep going!</string>
+    <string name="you_got_this_toast">You got this!</string>
+    <string name="take_your_time">Take your time!</string>
+    <string name="dont_give_up">Dont give up!</string>
+
+    <string name="null_entry">Invalid entry, please try again</string>
+
+    <string name="score">Your score</string>
+    <string name="save_button">Save your score</string>
+    <string name="check_score_button">Check your score</string>
+    <string name="you_scored_TextView">You scored </string>
+    <string name="num_questions">out of 10</string>
+    <string name="your_high_score">Your High Score</string>
+</resources>
